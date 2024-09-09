@@ -1,0 +1,5 @@
+service : {
+  brokenFunction: () -> (text);
+  mismatchedTypes: (text) -> (nat);
+  nonExistentFunction: () -> ();
+}
